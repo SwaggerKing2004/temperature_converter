@@ -39,7 +39,7 @@ To run the Temperature Converter locally, follow these steps:
 
 bash
 
-cd temperature-converter
+cd temperature_converter
 
 
 3.Open the index.html file in your web browser.
